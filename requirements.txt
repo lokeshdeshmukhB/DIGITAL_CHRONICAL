@@ -1,0 +1,27 @@
+# Core Dependencies
+streamlit>=1.28.0
+langchain-groq>=0.1.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+newspaper3k>=0.2.8
+nltk>=3.8.1
+pandas>=2.0.0
+
+# Data Processing
+numpy>=1.24.0
+python-dateutil>=2.8.2
+
+# Web Scraping & HTTP
+lxml>=4.9.0
+urllib3>=2.0.0
+
+# JSON & Data Handling
+jsonschema>=4.17.0
+
+# Logging & Configuration
+python-dotenv>=1.0.0
+
+# Optional: For enhanced functionality
+# scikit-learn>=1.3.0  # For advanced text analysis
+# spacy>=3.6.0         # For better NLP
+# plotly>=5.15.0       # For advanced visualizations
