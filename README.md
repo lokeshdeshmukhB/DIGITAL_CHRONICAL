@@ -287,4 +287,3 @@ For support, questions, or feature requests:
 
 **Digital Chronicler** - *Transforming information into inspiration, one story at a time.*
 
-*Built with ❤️ and AI*
